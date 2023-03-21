@@ -20,9 +20,7 @@ Như đã trình bày trên, 3 loại ổ cứng phổ biến là HDD, SSD, NVME
 
 Hình dưới đây mô tả cấu tạo của ổ cứng HDD: 
 
-<div align="center">
-  <img src="images/anh1.png">
-</div>
+![anh1](https://user-images.githubusercontent.com/104249743/226641678-6f3c33d8-11bc-4971-98b7-a944e658aa2b.png)
 
 Cụ thể: 
 
@@ -64,9 +62,7 @@ b. Nhược điểm
 
 Hình dưới đây mô tả kiến trúc của ổ cứng SSD: 
 
-<div align="center">
-  <img src="images/anh2.png">
-</div>
+![anh2](https://user-images.githubusercontent.com/104249743/226641754-97f9d35b-12c7-4b9f-8438-1c0bdfdbddea.png)
 
 Cụ thể: 
 
