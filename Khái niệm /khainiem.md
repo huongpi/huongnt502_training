@@ -38,7 +38,7 @@ Cụ thể:
 - Drive electronics PCB: mạch xử lý tín hiệu. Đầu đọc liên kết với mạch này thông qua cáp ribbon. 
 - Điều khiển truyền động (Head actuator) và trục truyền động (Head arm) là các thành phần điều khiển chuyển động của đầu đọc/ghi.
 
-### 2.1.3 Ưu nhược điểm của ổ cứng HDD\
+### 2.1.3 Ưu nhược điểm của ổ cứng HDD
 
 a. Ưu điểm 
 - Giá thành rẻ hơn so với các ổ cứng khác. 
@@ -73,7 +73,7 @@ Cụ thể:
 - SSD xử lý việc xóa dữ liệu bằng cách xác định dữ liệu được đánh dấu là không sử dụng, sau đó dữ liệu này sẽ được chuyển vào một khối của bộ nhớ. Việc tiếp theo chính là loại bỏ toàn bộ khối đó và xác định lại dữ liệu từ bộ nhớ trở lại khối trong khi để trống các trang không sử dụng.
 
 
-### 2.2.3 Ưu nhược điểm của ổ cứng HDD\
+### 2.2.3 Ưu nhược điểm của ổ cứng SSD
 
 a. Ưu điểm 
 - Tiêu thụ ít điện năng
